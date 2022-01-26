@@ -1,171 +1,159 @@
 # 50 Conversational English Lessons
 
-# Week 1
+Lesson | Phrase
+--- | :---
+[1] | [Late to Work][1]
+[2] | [Do You Have a Dog?][2]
+[3] | [You Have a Beautiful Office][3]
+[4] | [Ice Cream Shop][4]
+[5] | [Where Did You Grow Up?][5]
 
-## 1 Late to Work
-https://youtu.be/kxb8EpyhKro?t=9
-
-## 2 Do You Have a Dog?
-https://youtu.be/kxb8EpyhKro?t=102
-
-## 3 You Have a Beautiful Office
-https://youtu.be/kxb8EpyhKro?t=274
-
-## 4 Ice Cream Shop
-https://youtu.be/kxb8EpyhKro?t=377
-
-## 5 Where Did You Grow Up?
-https://youtu.be/kxb8EpyhKro?t=435
+[1]: https://youtu.be/kxb8EpyhKro?t=9
+[2]: https://youtu.be/kxb8EpyhKro?t=102
+[3]: https://youtu.be/kxb8EpyhKro?t=274
+[4]: https://youtu.be/kxb8EpyhKro?t=377
+[5]: https://youtu.be/kxb8EpyhKro?t=435
 
 # Week 2
 
-## 6 The Cloudy Weather
-https://youtu.be/kxb8EpyhKro?t=597
+Lesson | Phrase
+--- | :---
+[6] | [The Cloudy Weather][6]
+[7] | [Your Weekend][7]
+[8] | [I'm Lost][8]
+[9] | [Driving Directions][9]
+[10] | [Haircut][10]
 
-## 7 Your Weekend
-https://youtu.be/kxb8EpyhKro?t=696
-
-## 8 I'm Lost
-https://youtu.be/kxb8EpyhKro?t=800
-
-## 9 Driving Directions
-https://youtu.be/kxb8EpyhKro?t=859
-
-## 10 Haircut
-https://youtu.be/kxb8EpyhKro?t=1027
+[6]: https://youtu.be/kxb8EpyhKro?t=597
+[7]: https://youtu.be/kxb8EpyhKro?t=696
+[8]: https://youtu.be/kxb8EpyhKro?t=800
+[9]: https://youtu.be/kxb8EpyhKro?t=859
+[10]: https://youtu.be/kxb8EpyhKro?t=1027
 
 # Week 3
 
-## 11 Planting
-https://youtu.be/kxb8EpyhKro?t=1081
+Lesson | Phrase
+--- | :---
+[11] | [Planting][11]
+[12] | [The Zoo][12]
+[13] | [First Day of School][13]
+[14] | [Vegetable Shopping][14]
+[15] | [How Are You?][15]
 
-## 12 The Zoo
-https://youtu.be/kxb8EpyhKro?t=1154
-
-## 13 First Day of School
-https://youtu.be/kxb8EpyhKro?t=1229
-
-## 14 Vegetable Shopping
-https://youtu.be/kxb8EpyhKro?t=1302
-
-## 15 How Are You?
-https://youtu.be/kxb8EpyhKro?t=1370
+[11]: https://youtu.be/kxb8EpyhKro?t=1081
+[12]: https://youtu.be/kxb8EpyhKro?t=1154
+[13]: https://youtu.be/kxb8EpyhKro?t=1229
+[14]: https://youtu.be/kxb8EpyhKro?t=1302
+[15]: https://youtu.be/kxb8EpyhKro?t=1370
 
 # Week 4
 
-## 16 Ho Homework!
-https://youtu.be/kxb8EpyhKro?t=1468
+Lesson | Phrase
+--- | :---
+[16] | [No Homework!][16]
+[17] | [Rainy Day][17]
+[18] | [Looking Good][18]
+[19] | [Favorite Sport][19]
+[20] | [Weekend Plans][20]
 
-## 17 Rainy Day
-https://youtu.be/kxb8EpyhKro?t=1623
-
-## 18 Looking Good
-https://youtu.be/kxb8EpyhKro?t=1734
-
-## 19 Favorite Sport
-https://youtu.be/kxb8EpyhKro?t=1831
-
-## 20 Weekend Plans
-https://youtu.be/kxb8EpyhKro?t=1880
+[16]: https://youtu.be/kxb8EpyhKro?t=1468
+[17]: https://youtu.be/kxb8EpyhKro?t=1623
+[18]: https://youtu.be/kxb8EpyhKro?t=1734
+[19]: https://youtu.be/kxb8EpyhKro?t=1831
+[20]: https://youtu.be/kxb8EpyhKro?t=1880
 
 # Week 5
 
-## 21 Hurricanes
-https://youtu.be/kxb8EpyhKro?t=2032
+Lesson | Phrase
+--- | :---
+[21] | [Hurricanes][21]
+[22] | [Hotel][22]
+[23] | [At the Bookstore][23]
+[24] | [In the Office][24]
+[25] | [Blue Dress][25]
 
-## 22 Hotel
-https://youtu.be/kxb8EpyhKro?t=2132
-
-## 23 At the Bookstore
-https://youtu.be/kxb8EpyhKro?t=2185
-
-## 24 In the Office
-https://youtu.be/kxb8EpyhKro?t=2320
-
-## 25 Blue Dress
-https://youtu.be/kxb8EpyhKro?t=2368
+[21]: https://youtu.be/kxb8EpyhKro?t=2032
+[22]: https://youtu.be/kxb8EpyhKro?t=2132
+[23]: https://youtu.be/kxb8EpyhKro?t=2185
+[24]: https://youtu.be/kxb8EpyhKro?t=2320
+[25]: https://youtu.be/kxb8EpyhKro?t=2368
 
 # Week 6
 
-## 26 Holiday Plans
-https://youtu.be/kxb8EpyhKro?t=2516
+Lesson | Phrase
+--- | :---
+[26] | [Holiday Plans][26]
+[27] | [Tell Me About Your Family][27]
+[28] | [Movies][28]
+[29] | [Cleaning Out My Purse][29]
+[30] | [Birthday Cake][30]
 
-## 27 Tell Me About Your Family
-https://youtu.be/kxb8EpyhKro?t=2627
-
-## 28 Movies
-https://youtu.be/kxb8EpyhKro?t=2684
-
-## 29 Cleaning Out My Purse
-https://youtu.be/kxb8EpyhKro?t=2815
-
-## 30 Birthday Cake
-https://youtu.be/kxb8EpyhKro?t=2858
+[26]: https://youtu.be/kxb8EpyhKro?t=2516
+[27]: https://youtu.be/kxb8EpyhKro?t=2627
+[28]: https://youtu.be/kxb8EpyhKro?t=2684
+[29]: https://youtu.be/kxb8EpyhKro?t=2815
+[30]: https://youtu.be/kxb8EpyhKro?t=2858
 
 # Week 7
 
-## 31 The Weather is Nice
-https://youtu.be/kxb8EpyhKro?t=2954
+Lesson | Phrase
+--- | :---
+[31] | [The Weather is Nice][31]
+[32] | [Classes][32]
+[33] | [A Guy Named Tom][33]
+[34] | [Movies][34]
+[35] | [Computer Shopping][35]
 
-## 32 Classes
-https://youtu.be/kxb8EpyhKro?t=3039
-
-## 33 A Guy Named Tom
-https://youtu.be/kxb8EpyhKro?t=3121
-
-## 34 Movies
-https://youtu.be/kxb8EpyhKro?t=3236
-
-## 35 Computer Shopping
-https://youtu.be/kxb8EpyhKro?t=3281
+[31]: https://youtu.be/kxb8EpyhKro?t=2954
+[32]: https://youtu.be/kxb8EpyhKro?t=3039
+[33]: https://youtu.be/kxb8EpyhKro?t=3121
+[34]: https://youtu.be/kxb8EpyhKro?t=3236
+[35]: https://youtu.be/kxb8EpyhKro?t=3281
 
 # Week 8
 
-## 36 A Photograph
-https://youtu.be/kxb8EpyhKro?t=3403
+Lesson | Phrase
+--- | :---
+[36] | [A Photograph][36]
+[37] | [Check Out][37]
+[38] | [The Time][38]
+[39] | [Ordering Food][39]
+[40] | [I'm Sick][40]
 
-## 37 Check Out
-https://youtu.be/kxb8EpyhKro?t=3540
-
-## 38 The Time
-https://youtu.be/kxb8EpyhKro?t=3589
-
-## 39 Ordering Food
-https://youtu.be/kxb8EpyhKro?t=3697
-
-## 40 I'm Sick
-https://youtu.be/kxb8EpyhKro?t=3752
+[36]: https://youtu.be/kxb8EpyhKro?t=3403
+[37]: https://youtu.be/kxb8EpyhKro?t=3540
+[38]: https://youtu.be/kxb8EpyhKro?t=3589
+[39]: https://youtu.be/kxb8EpyhKro?t=3697
+[40]: https://youtu.be/kxb8EpyhKro?t=3752
 
 # Week 9
 
-## 41 I Cut My Hand
-https://youtu.be/kxb8EpyhKro?t=3817
+Lesson | Phrase
+--- | :---
+[41] | [I Cut My Hand][41]
+[42] | [Coffee Shop][42]
+[43] | [I Missed School Day][43]
+[44] | [The News][44]
+[45] | [Good News][45]
 
-## 42 Coffee Shop
-https://youtu.be/kxb8EpyhKro?t=3907
-
-## 43 I Missed School Day
-https://youtu.be/kxb8EpyhKro?t=3942
-
-## 44 The News
-https://youtu.be/kxb8EpyhKro?t=4029
-
-## 45 Good News
-https://youtu.be/kxb8EpyhKro?t=4096
+[41]: https://youtu.be/kxb8EpyhKro?t=3817
+[42]: https://youtu.be/kxb8EpyhKro?t=3907
+[43]: https://youtu.be/kxb8EpyhKro?t=3942
+[44]: https://youtu.be/kxb8EpyhKro?t=4029
+[45]: https://youtu.be/kxb8EpyhKro?t=4096
 
 # Week 10
 
-## 46 Ordering Food at a Restaurant
-https://youtu.be/kxb8EpyhKro?t=4158
+Lesson | Phrase
+--- | :---
+[46] | [Ordering Food at a Restaurant][46]
+[47] | [Somebody Stole my Car][47]
+[48] | [At the Dentist Office][48]
+[49] | [Housekeeping][49]
+[50] | [Checking into the Hotel][50]
 
-## 47 Somebody Stole my Car
-https://youtu.be/kxb8EpyhKro?t=4249
-
-## 48 At the Dentist Office
-https://youtu.be/kxb8EpyhKro?t=4303
-
-## 49 Housekeeping
-https://youtu.be/kxb8EpyhKro?t=4385
-
-## 50 Checking into the Hotel
-https://youtu.be/kxb8EpyhKro?t=4460
+[46]: https://youtu.be/kxb8EpyhKro?t=4158
+[47]: https://youtu.be/kxb8EpyhKro?t=4249
+[48]: https://youtu.be/kxb8EpyhKro?t=4303
+[49]: https://youtu.be/kxb8EpyhKro?t=4385
+[50]: https://youtu.be/kxb8EpyhKro?t=4460
