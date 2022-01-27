@@ -1,3 +1,7 @@
+body {
+  font-family: 'Lexend', sans-serif;
+}
+
 .video-background {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
