@@ -10,11 +10,18 @@ layout: default
       <th>Lesson</th>
       <th>Title</th>
     </tr>
-    {% for post in site.posts %}
-      <tr>
-        <td>{{ post.lesson }}</td>
-        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-      </tr>
+    {% for post in site.posts reversed %}
+      {% if post.lesson % 5 == 1 %}
+        {% assign week = post.lesson / 5 %}
+        <tr>
+          <td colspan="2">Week {{ week | abs }}</td>
+        </tr>
+      {% else %}
+        <tr>
+          <td>{{ post.lesson }}</td>
+          <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+        </tr>
+      {% endif %}
     {% endfor %}
   </table>
 </center>
