@@ -11,9 +11,9 @@ layout: default
       <th>Title</th>
     </tr>
     {% for post in site.posts reversed %}
-      {% assign start = post.lesson % 5 %}
+      {% assign start = post.lesson | modulo: 5 %}
       {% if start == 1 %}
-        {% assign week = post.lesson / 5 %}
+        {% assign week = post.lesson | divide: 5 %}
         <tr>
           <td colspan="2">Week {{ week | abs }}</td>
         </tr>
