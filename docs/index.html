@@ -15,7 +15,7 @@ layout: default
       {% if start == 1 %}
         {% assign week = post.lesson | divided_by: 5 %}
         <tr>
-          <td colspan="2">Week {{ week | abs }}</td>
+          <td colspan="2">Week {{ week | abs | plus: 1 }}</td>
         </tr>
       {% endif %}
       <tr>
