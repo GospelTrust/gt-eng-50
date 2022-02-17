@@ -3,6 +3,11 @@ body {
   font-size: 20px;
 }
 
+a, a:visited {
+  color: dodgerblue;
+  text-decoration-thickness: 0.5px;
+}
+
 .video-background {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
@@ -42,3 +47,11 @@ tr:nth-child(odd) {
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
 .material-icons.md-48 { font-size: 48px; }
+
+.buttons {
+  margin-bottom: 1em;
+}
+.buttons a {
+  text-decoration: none;
+  color: yellowgreen;
+}

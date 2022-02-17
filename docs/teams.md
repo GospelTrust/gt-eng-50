@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include logo.html %}
+
 ## Teams
 
 Team | Student       | 1
