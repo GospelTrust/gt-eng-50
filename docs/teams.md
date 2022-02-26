@@ -7,6 +7,26 @@
 
 Team | Student       | 1
 ---: | :---          | ---
+1    | Mai Phương    | .
+1    | Vũ Nghĩa      | .
+1    | Thị Nga       | *
+1    | Văn Thắng     | *
+2    | Trường Lộc    | .
+2    | Thiên Ân      | .
+2    | Vũ Trân       | .
+2    | Đình Thế      | .
+3    | Cô Phương     | .
+3    | Cô Uyên       | .
+3    | Thanh Thúy    | .
+3    | Trịnh Hoa     | .
+0    | Hải My        | •
+0    | Yến Nhi       | •
+0    | Băng Băng     | •
+0    | Đinh Thị Hoa  | •
+0    | Ngọc Thùy     | •
+
+Team | Student       | 1
+---: | :---          | ---
 1    | Mai Phương    | •
 1    | Vũ Nghĩa      | •
 1    | Thị Nga       | •
