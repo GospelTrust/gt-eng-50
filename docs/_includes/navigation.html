@@ -1,11 +1,13 @@
 <div>
   {% if include.info.next %}
     <a class="material-icons md-48" href="{{ include.info.next.url }}">arrow_back</a>
+    {{ include.info.next.title }}
   {% endif %}
 
   &nbsp;
 
   {% if include.info.previous %}
     <a class="material-icons md-48" href="{{ include.info.previous.url }}">arrow_forward</a>
+    {{ include.info.previous.title }}
   {% endif %}
 </div>
