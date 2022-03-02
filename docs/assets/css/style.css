@@ -59,6 +59,8 @@ tr:nth-child(odd) {
 .navigation {
   display: flex;
   align-items: center;
+  text-decoration: none;
+  color: deeppink;
 }
 .navigation.right {
   flex-direction: row-reverse;
