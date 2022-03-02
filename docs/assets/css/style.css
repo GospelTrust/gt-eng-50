@@ -60,7 +60,7 @@ tr:nth-child(odd) {
   display: flex;
   align-items: center;
   text-decoration: none;
-  color: deeppink;
+  color: deeppink!important;
 }
 .navigation.right {
   flex-direction: row-reverse;
