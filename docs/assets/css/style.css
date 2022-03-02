@@ -55,3 +55,11 @@ tr:nth-child(odd) {
   text-decoration: none;
   color: yellowgreen;
 }
+
+.navigation {
+  display: flex;
+  align-items: center;
+}
+.navigation.right {
+  flex-direction: row-reverse;
+}

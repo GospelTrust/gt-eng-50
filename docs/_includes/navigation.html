@@ -1,13 +1,13 @@
-<div>
-  {% if include.info.next %}
+{% if include.info.next %}
+<div class="navigation">
     <a class="material-icons md-48" href="{{ include.info.next.url }}">arrow_back</a>
     {{ include.info.next.title }}
-  {% endif %}
+</div>
+{% endif %}
 
-  &nbsp;
-
-  {% if include.info.previous %}
+{% if include.info.previous %}
+<div class="navigation right">
     <a class="material-icons md-48" href="{{ include.info.previous.url }}">arrow_forward</a>
     {{ include.info.previous.title }}
-  {% endif %}
 </div>
+{% endif %}
