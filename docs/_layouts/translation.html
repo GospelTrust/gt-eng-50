@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+    {% assign week = site.data.course[page.collection] %}
+    {% assign index = page.lesson | minus: 1 | modulo: 5 %}
+    {% assign item = week.items[index] %}
+    {% assign data_key = page.lesson | prepend: 'lesson-' %}
+    {% assign coords = site.data.clips[data_key] %}
+    <title>
+      {{ week.title }}: {{ item.title }}
+    </title>
+    <link href="{{ 'assets/css/lesson.css' | relative_url }}" rel="stylesheet"/>
+    <link href="{{ 'assets/css/md.css' | relative_url }}" rel="stylesheet"/>
+    <link href="{{ 'assets/css/bubbles.css' | relative_url }}" rel="stylesheet"/>
+  </head>
+  <body>
+    {% include lesson/header.html %}
+
+    <section class="spacer content">
+      <div>
+        {{ content }}
+      </div>
+    </section>
+
+    {% include lesson/footer.html %}
+  </body>
+</html>

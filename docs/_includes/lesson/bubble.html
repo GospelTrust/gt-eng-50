@@ -1,0 +1,16 @@
+{% assign words = include.text | split: " " %}
+
+<div class="talk-bubble {{ include.side }} tri-right {{ include.side }}-in border round">
+  <div class="talktext">
+    <div class="index">{{ include.index }}</div>
+    {% for w in words %}
+      {% assign str = w | remove_first: '^' %}
+      {% if str == w %}
+        {{ w }}
+      {% else %}
+        {% include lesson/say.html word=str %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

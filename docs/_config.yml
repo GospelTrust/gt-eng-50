@@ -1,2 +1,25 @@
 title: 50 Conversational English Lessons
+youtube_url: https://www.youtube.com/embed/kxb8EpyhKro
 future: true
+collections_dir: content
+collections:
+  week-01:
+    output: true
+  week-02:
+    output: true
+  week-03:
+    output: true
+  week-04:
+    output: true
+  week-05:
+    output: true
+  week-06:
+    output: true
+  week-07:
+    output: true
+  week-08:
+    output: true
+  week-09:
+    output: true
+  week-10:
+    output: true

@@ -1,0 +1,4 @@
+{% assign item = include.item %}
+{% if item.session %}Lesson {{ item.session }}: {% endif %}
+{{ item.title }}
+{% if item.part %}Part: {{ item.part }}{% endif %}

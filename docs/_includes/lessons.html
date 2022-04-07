@@ -1,0 +1,25 @@
+{% assign text = include.text %}
+
+<a class="center-align" href="/">
+  <img src="/assets/logo.svg" width="100" title="{{ text.title }}"/>
+  <div class="cursive-head">{{ text.title }}</div>
+</a>
+
+<ul>
+  {% for lesson in site[page.language] %}
+    {% if lesson.day == 1 %}
+      <li class="card-tab">
+        <div class="top-bar">{{ text.week }}</div>
+        <div class="tab">{{ lesson.week }}</div>
+        <div class="body">
+          <p>{{ lesson.title }}</p>
+        </div>
+        <div class="control">
+           <a href="{{ lesson.url }}">{{ text.day }} {{ lesson.day }}</a>
+    {% else %}
+           <a href="{{ lesson.url }}">{{ text.day }} {{ lesson.day }}</a>
+        </div>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

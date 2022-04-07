@@ -1,0 +1,68 @@
+{% assign week = site.data.course[page.collection] %}
+{% assign idx = page.lesson | minus: 1 | modulo: 5 %}
+{% assign item = week.items[idx] %}
+
+{% assign week_num = page.collection | replace_first: 'week-' %}
+{% assign prev = week_num | minus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
+{% assign next = week_num | plus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
+
+<div class="center-align special">
+  <a href="/{{ page.collection }}"><img src="/assets/logo.svg" width="50" title="{{ week.title }}"/></a>
+
+  {% if item.session %}
+    <div>Lesson {{ item.session }}</div>
+  {% endif %}
+  <h1 class="special">{{ item.title }}</h1>
+  {% if item.part %}
+    <div>Part {{ item.part }}</div>
+  {% endif %}
+
+  <div class="middle-align">
+    {% if site.data.course[prev] %}
+      <a href="/{{ prev }}" class="material-icons md-48">navigate_before</a>
+    {% else %}
+      <span class="material-icons md-48 md-disabled">navigate_before</span>
+    {% endif %}
+
+    <a href="/{{ page.collection }}"><h3>{{ week.title }}</h3></a>
+
+    {% if site.data.course[next] %}
+      <a href="/{{ next }}" class="material-icons md-48">navigate_next</a>
+    {% else %}
+      <span class="material-icons md-48 md-disabled">navigate_next</span>
+    {% endif %}
+  </div>
+
+  <div>
+    {% if week.begin and week.end %}
+      {{ week.begin | date: '%b %e' }} - {{ week.end | date: '%b %e, %Y' }}
+    {% else %}
+      {{ week.date }}
+    {% endif %}
+  </div>
+
+  <div class="middle-align">
+    {% for item in week.items %}
+      {% if item.icon %}
+        {% assign icon = item.icon %}
+      {% elsif item.header %}
+        {% assign icon = item.header %}
+      {% else }
+        {% assign icon = '' %}
+      {% endif %}
+
+      {% assign pref = 'lesson' %}
+      {% if page.lang %}
+        {% assign pref = page.lang %}
+      {% endif %}
+
+      {% if forloop.index0 == idx %}
+        <span class="lesson-number">{{ item.session }}</span>
+      {% elsif item.url %}
+        <a class="lesson-number" href="/{{ page.collection }}/{{ item.url }}">{{ item.session }}</a>
+      {% else %}
+        <a class="lesson-number" href="/{{ page.collection }}/{{ pref }}-{{ item.session }}">{{ item.session }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
