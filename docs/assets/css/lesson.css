@@ -90,6 +90,7 @@ section > div {
   max-width: var(--contentWidth);
   display: flex;
   flex-direction: column;
+  margin: 0 10px;
 }
 
 .md-18 { font-size: 18px; }

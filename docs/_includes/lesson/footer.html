@@ -28,11 +28,11 @@
     </div>
   {% endif %}
 
-  <h3 class="middle-align">
+  <h3 class="center-align">
     <span>{% include lesson/item.html item=item %}</span>
 
     {% if next_item %}
-      <span class="material-icons md-24">navigate_next</span>
+      <span class="material-icons md-24">arrow_downward</span>
       <a href="/{{ week_next }}/{{ pref }}-{{ next_item.session }}">
         {% include lesson/item.html item=next_item %}
       </a>
