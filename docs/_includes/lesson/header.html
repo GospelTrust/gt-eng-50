@@ -2,10 +2,6 @@
 {% assign idx = page.lesson | minus: 1 | modulo: 5 %}
 {% assign item = week.items[idx] %}
 
-{% assign week_num = page.collection | replace_first: 'week-' %}
-{% assign prev = week_num | minus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
-{% assign next = week_num | plus: 1 | prepend: '00' | slice: -2, 2 | prepend: 'week-' %}
-
 <div class="center-align special">
   <a href="/{{ page.collection }}"><img src="/assets/logo.svg" width="50" title="{{ week.title }}"/></a>
 
@@ -17,21 +13,7 @@
     <div>Part {{ item.part }}</div>
   {% endif %}
 
-  <div class="middle-align">
-    {% if site.data.course[prev] %}
-      <a href="/{{ prev }}" class="material-icons md-48">navigate_before</a>
-    {% else %}
-      <span class="material-icons md-48 md-disabled">navigate_before</span>
-    {% endif %}
-
-    <a href="/{{ page.collection }}"><h3>{{ week.title }}</h3></a>
-
-    {% if site.data.course[next] %}
-      <a href="/{{ next }}" class="material-icons md-48">navigate_next</a>
-    {% else %}
-      <span class="material-icons md-48 md-disabled">navigate_next</span>
-    {% endif %}
-  </div>
+  {% include lesson/week_nav.html %}
 
   <div>
     {% if week.begin and week.end %}

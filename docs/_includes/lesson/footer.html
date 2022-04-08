@@ -39,19 +39,5 @@
     {% endif %}
   </h3>
 
-  <div class="middle-align">
-    {% if site.data.course[prev] %}
-      <a href="/{{ prev }}" class="material-icons md-48">navigate_before</a>
-    {% else %}
-      <span class="material-icons md-48 md-disabled">navigate_before</span>
-    {% endif %}
-
-    <a href="/{{ page.collection }}" class="material-icons">calendar_today</a>
-
-    {% if site.data.course[next] %}
-      <a href="/{{ next }}" class="material-icons md-48">navigate_next</a>
-    {% else %}
-      <span class="material-icons md-48 md-disabled">navigate_next</span>
-    {% endif %}
-  </div>
+  {% include lesson/week_nav.html icon=1 %}
 </div>

@@ -28,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--secondaryFont);
   font-weight: normal;
   color: var(--secondaryColor);
+  line-height: 1;
 }
 
 h1 { font-size: 2.5em }
@@ -90,7 +91,6 @@ section > div {
   max-width: var(--contentWidth);
   display: flex;
   flex-direction: column;
-  margin: 0 10px;
 }
 
 .md-18 { font-size: 18px; }
