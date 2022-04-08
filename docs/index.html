@@ -74,7 +74,7 @@ layout: index
         <div class="control">
           <a href="/{{ week.label }}">
             {{ info.title }}&nbsp;
-            <span class="material-icons">rocket_launch</span>
+            <span class="material-icons">{% if theme %}rocket_launch{% else %}rocket{% endif %}</span>
           </a>
         </div>
       </li>
