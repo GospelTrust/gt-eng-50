@@ -1,5 +1,12 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta charset="utf-8">
 <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+<link rel="manifest" href="manifest.json" />
 <link href="https://fonts.googleapis.com/css2?family=Teko&family=Open+Sans&family=Josefin+Sans&family=Lexend&family=Share+Tech+Mono&family=Material+Icons&family=Material+Icons+Outlined&display=swap" rel="stylesheet" />
 <link rel="shortcut icon" type="image/png" href="/assets/favicon.png" />
+
+<script type="module">
+  import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+  const el = document.createElement('pwa-update');
+  document.body.appendChild(el);
+</script>

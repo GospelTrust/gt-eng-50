@@ -1,0 +1,18 @@
+{
+  "background_color": "#444444",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "50 English Lessons",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "English",
+  "start_url": "/",
+  "theme_color": "#88aa00",
+  "icons": [
+    {
+      "src": "300x300.png",
+      "type": "image/png",
+      "sizes": "300x300"
+    }
+  ]
+}
