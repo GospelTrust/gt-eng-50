@@ -20,7 +20,7 @@
             {% include lesson/say.html word=word %}
           {% else %}
             {% assign punct = str | slice: -1, 1 %}
-            {% include lesson/say.html word=word %}{{ punct }}
+            {% include lesson/say.html word=word punct=punct %}
           {% endif %}
         {% endif %}
       {% endfor %}
