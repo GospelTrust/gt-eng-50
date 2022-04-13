@@ -1,0 +1,8 @@
+{% assign end = include.end | date: '%s' %}
+{% assign begin = include.begin | date: '%s' %}
+{% assign now = 'now' | date: '%s' %}
+
+{% if now >= begin and now <= end %}
+  <small class="special">this week</small>
+  <span class="material-icons md-36">keyboard_double_arrow_down</span>
+{% endif %}
