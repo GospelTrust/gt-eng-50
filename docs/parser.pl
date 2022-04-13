@@ -4,9 +4,39 @@ use constant DIR => q{_posts};
 use constant CONTENT_DIR => q{content};
 use constant DATA_DIR => q{_data};
 
-&main_viet;
+&main_misc_videos;
 
 exit (0);
+
+sub main_misc_videos {
+    my $files = get_files(DIR);
+    my $lesson = 1;
+    my $outfile = sprintf q{%s/misc_videos.yml}, DATA_DIR;
+
+    open my $out, ">$outfile"  or qq{Cannot open $outfile: $1};
+    foreach (sort @$files) {
+        print "$_\n";
+        printf $out qq{lesson-%d: [ '%s' ]\n},
+          $lesson++, join "','", parse_misc_videos($_);
+    }
+    close $out;
+}
+
+sub parse_misc_videos {
+    my $file    = $_[0];
+    my $infile  = DIR . '/' . $file;
+    my @ytids   = ();
+
+    open my $fh, $infile or qq{Cannot open $infile: $!};
+
+    while (<$fh>) {
+      next unless /include video\.html id='([^\']+)'/;
+      push @ytids, $1;
+    }
+
+    close $fh;
+    return @ytids;
+}
 
 sub main_viet {
   my $files   = get_files(DIR);
