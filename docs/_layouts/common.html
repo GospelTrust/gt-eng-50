@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+    {% assign class = page.relative_path | remove_first: '_common/' | remove: '.html' %}
+    {% assign col = site.data.common.index[class] %}
+    {% assign words = site.data.common[class] %}
+    {% assign title = words | size | append: ' Common ' | append: col.title %}
+    <title>{{ title }}</title>
+    <link href="{{ 'assets/css/lesson.css' | relative_url }}" rel="stylesheet"/>
+    <link href="{{ 'assets/css/md.css' | relative_url }}" rel="stylesheet"/>
+    <style>
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        grid-gap: 10px;
+        font-family: var(--specialFont);
+        font-size: 20px;
+      }
+      .grid-item {
+        height: 50px;
+        justify-content: center;
+        background-color: var(--secondaryColor);
+        border-radius: 7px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="center-align special">
+      <a href="/common"><img src="/assets/logo.svg" width="50" title="{{ site.title }}"/></a>
+      <h1 class="special">{{ title }}</h1>
+    </div>
+    <div class="grid-container">
+      {% for w in words %}
+        <div class="center-align grid-item">{{ w }}</div>
+      {% endfor %}
+    </div>
+  </body>
+</html>

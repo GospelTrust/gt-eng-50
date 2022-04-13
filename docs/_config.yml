@@ -23,3 +23,5 @@ collections:
     output: true
   week-10:
     output: true
+  common:
+    output: true
