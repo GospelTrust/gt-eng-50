@@ -9,75 +9,8 @@ layout: index
 
 <ul>
   {% for week in site.collections %}
-    {% assign info = site.data.course[week.label] %}
-    {% if info %}
-      {% assign end = info.end | date: '%s' %}
-      {% assign begin = info.begin | date: '%s' %}
-      {% assign now = 'now' | date: '%s' %}
-
-      {% unless end and now > end %}
-        {% assign theme = info.theme %}
-      {% endunless %}
-
-      {% if now >= begin and now <= end %}
-        {% assign current = 'current' %}
-      {% else %}
-        {% assign current = '' %}
-      {% endif %}
-
-      <li class="card-tab {{ theme }} {{ current }}">
-        <div class="top-bar">week</div>
-        <div class="tab">{{ forloop.index0 }}</div>
-        <div class="header">
-          <a href="/{{ week.label }}">
-            {% if info.begin and info.end %}
-              {{ info.begin | date: '%b %e' }} - {{ info.end | date: '%b %e' }}
-            {% else %}
-              {{ info.date }}
-            {% endif %}
-          </a>
-        </div>
-        <div class="body">
-          {% for item in info.items %}
-            <div class="item">
-              <div class="middle-align">
-                {% if item.session %}
-                  <span class="material-icons">
-                    {% if item.header == 'assignment' %}
-                      task_alt
-                    {% else %}
-                      flaky
-                    {% endif %}
-                  </span>
-                  <h3>Lesson {{ item.session }}</h3>
-                {% else if item.header == 'info' %}
-                  <span class="material-icons-outlined">{{ item.header }}</span>
-                  <h3>{{ item.header }}</h3>
-                {% else %}
-                  <span class="material-icons">question_mark</span>
-                  <h3>{{ item.header }}</h3>
-                {% endif %}
-              </div>
-
-              {% if item.url %}
-                <a href="{{ week.label }}/{{ item.url }}">{{ item.title }}</a>
-              {% else %}
-                <a href="{{ week.label }}/lesson-{{ item.session }}">{{ item.title }}</a>
-              {% endif %}
-
-              {% if item.part %}
-                <small>(Part {{ item.part }})</small>
-              {% endif %}
-            </div>
-          {% endfor %}
-        </div>
-        <div class="control">
-          <a href="/{{ week.label }}">
-            {{ info.title }}&nbsp;
-            <span class="material-icons">{% if theme %}rocket_launch{% else %}rocket{% endif %}</span>
-          </a>
-        </div>
-      </li>
+    {% if site.data.course[week.label] %}
+      {% include index/card.html week=week.label %}
     {% endif %}
   {% endfor %}
 </ul>
