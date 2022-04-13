@@ -80,7 +80,7 @@ blockquote {
   padding-left: 10px;
   margin-left: 20px;
   font-family: var(--specialFont);
-  font-size: 20px;
+  font-size: 19px;
 }
 
 section.content {
@@ -153,10 +153,10 @@ section > div {
   margin: 0 5px;
   background-color: var(--secondaryColor);
   color: var(--fgColor);
-  border-radius: 5px;
+  border-radius: 50%;
   width: 25px;
   height: 25px;
-  font-size: 20px;
+  font-size: 16px;
 }
 a.lesson-number{
   background-color: var(--linkColor);
