@@ -5,7 +5,7 @@ week: 9
 lesson: 43
 ---
 
-{% include lesson/bubble.html text='Why ^didn&rsquo;t you miss school yesterday? We had a ^test.' side='right' index=1 %}
+{% include lesson/bubble.html text='Why ^did you miss school yesterday? We had a ^test.' side='right' index=1 %}
 {% include lesson/bubble.html text='I was at home ^sick with the flu.' side='left' index=2 %}
 {% include lesson/bubble.html text='You got the flu? That&rsquo;s ^terrible.' side='right' index=3 %}
 {% include lesson/bubble.html text='When I ^woke up I just ^felt really ^tired. I ^couldn&rsquo;t get out of bed.' side='left' index=4 %}

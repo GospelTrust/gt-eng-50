@@ -4,12 +4,24 @@
   <div class="talk-bubble {{ include.side }} tri-right {{ include.side }}-in border round">
     <div class="talktext">
       <div class="index">{{ include.index }}</div>
-      {% for w in words %}
+      {% for raw in words %}
+        {% assign w = raw | replace: 'th', '<u>th</u>' %}
         {% assign str = w | remove_first: '^' %}
         {% if str == w %}
           {{ w }}
         {% else %}
-          {% include lesson/say.html word=str %}
+          {% assign word = str
+             | remove_first: '.'
+             | remove_first: ','
+             | remove_first: '!'
+             | remove_first: '?'
+           %}
+          {% if word == str %}
+            {% include lesson/say.html word=word %}
+          {% else %}
+            {% assign punct = str | slice: -1, 1 %}
+            {% include lesson/say.html word=word %}{{ punct }}
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>
