@@ -3,7 +3,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "50 English Lessons",
-  "orientation": "any",
+  "orientation": "portrait",
   "scope": "/",
   "short_name": "English",
   "start_url": "/",
