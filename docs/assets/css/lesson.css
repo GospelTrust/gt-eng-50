@@ -3,6 +3,7 @@ html {
   --mainFont: 'Open Sans', sans-serif;
   --secondaryFont: 'Teko', sans-serif;
   --monoFont: 'Share Tech Mono', monospace;
+  --textFont: 'Lexend', sans-serif;
   --secondaryColor: dodgerblue;
   --linkColor: deeppink;
   --primaryColor: aliceblue;
@@ -151,13 +152,15 @@ section > div {
   text-decoration: none;
   padding: 7px 5px 3px 5px;
   margin: 0 5px;
-  background-color: var(--secondaryColor);
-  color: var(--fgColor);
+  background-color: var(--fgColor);
+  font-family: var(--fontText);
+  color: var(--bgColor);
   border-radius: 50%;
   width: 25px;
   height: 25px;
   font-size: 16px;
 }
 a.lesson-number{
+  color: var(--fgColor);
   background-color: var(--linkColor);
 }
