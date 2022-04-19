@@ -4,6 +4,7 @@
 {% assign begin = info.begin | date: '%s' %}
 {% assign now = 'now' | date: '%s' %}
 {% assign current = '' %}
+{% assign weekNumber = weekId | replace: 'week-', '' | plus: 0 %}
 
 {% unless end and now > end %}
   {% assign theme = info.theme %}
@@ -15,7 +16,7 @@
 
 <li class="card-tab {{ theme }} {{ current }}">
   <div class="top-bar">week</div>
-  <div class="tab">{{ forloop.index0 }}</div>
+  <div class="tab">{{ weekNumber }}</div>
   <div class="header">
     <a href="/{{ weekId }}">
       {% if info.begin and info.end %}

@@ -111,7 +111,7 @@ week-05:
 week-06:
   title: 'Week 6'
   begin: 2022-04-03
-  end: 2022-04-09
+  end: 2022-04-16
   theme: c3
   items:
   - title: 'Holiday Plans'
@@ -132,8 +132,8 @@ week-06:
 
 week-07:
   title: 'Week 7'
-  begin: 2022-04-10
-  end: 2022-04-16
+  begin: 2022-04-17
+  end: 2022-04-23
   theme: c5
   items:
   - title: 'The Weather is Nice'
@@ -154,8 +154,8 @@ week-07:
 
 week-08:
   title: 'Week 8'
-  begin: 2022-04-17
-  end: 2022-04-23
+  begin: 2022-04-24
+  end: 2022-04-30
   theme: c7
   items:
   - title: 'A Photograph'
@@ -176,8 +176,8 @@ week-08:
 
 week-09:
   title: 'Week 9'
-  begin: 2022-04-24
-  end: 2022-04-30
+  begin: 2022-05-01
+  end: 2022-05-07
   theme: c9
   items:
   - title: 'I Cut My Hand'
@@ -198,8 +198,8 @@ week-09:
 
 week-10:
   title: 'Week 10'
-  begin: 2022-05-01
-  end: 2022-05-07
+  begin: 2022-05-08
+  end: 2022-05-14
   theme: c10
   items:
   - title: 'Ordering Food at a Restaurant'
