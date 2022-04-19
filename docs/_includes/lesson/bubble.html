@@ -6,8 +6,8 @@
       <div class="index">{{ include.index }}</div>
       {% for raw in words %}
         {% assign w = raw | replace: 'th', '<u>th</u>' %}
-        {% assign w = raw | replace: 'st', '<u>st</u>' %}
-        {% assign w = raw | replace: 've', '<u>ve</u>' %}
+        {% assign w = w | replace: 'st', '<u>st</u>' %}
+        {% assign w = w | replace: 've', '<u>ve</u>' %}
         {% assign str = w | remove_first: '^' %}
         {% if str == w %}
           {{ w }}
