@@ -23,6 +23,15 @@
         background-color: var(--secondaryColor);
         border-radius: 7px;
       }
+      .done {
+        animation: fadeOut 1s;
+        opacity: 0.2;
+        background-color: var(--fgColor);
+      }
+      @keyframes fadeOut {
+        0% {opacity:1;}
+        100% {opacity:0.2;}
+      }
     </style>
   </head>
   <body>
@@ -35,5 +44,19 @@
         <div class="center-align grid-item">{{ w }}</div>
       {% endfor %}
     </div>
+
+    <script>
+      const col = document.getElementsByClassName('grid-item');
+      for (let i=0; i<col.length; i++) {
+        col[i].addEventListener('click', function() {
+          const classes = this.className;
+          if (classes.indexOf('done') < 0) {
+            this.className = this.className + ' done';
+          } else {
+            this.className = classes.split(' ').filter( w => w !== 'done' ).join(' ');
+          }
+        });
+      }
+    </script>
   </body>
 </html>
