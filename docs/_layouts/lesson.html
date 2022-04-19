@@ -8,7 +8,7 @@
     {% assign data_key = page.lesson | prepend: 'lesson-' %}
     {% assign coords = site.data.clips[data_key] %}
     <title>
-      {{ week.title }}: {{ item.title }}
+      Lesson {{ item.session }}: {{ item.title }} &mdash; {{ week.title }}
     </title>
     <link href="{{ 'assets/css/lesson.css' | relative_url }}" rel="stylesheet"/>
     <link href="{{ 'assets/css/md.css' | relative_url }}" rel="stylesheet"/>
