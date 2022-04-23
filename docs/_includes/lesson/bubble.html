@@ -7,8 +7,13 @@
       {% for raw in words %}
         {% assign w = raw
           | replace: 'th', '<u>th</u>'
-          | replace: 'st', '<u>st</u>'
-          | replace: 've', '<u>ve</u>' %}
+          | replace: 'Th', '<u>Th</u>'
+          | replace: 'St', '<u>St</u>'
+          | replace: 've', '<u>ve</u>'
+          | replace: 'Ve', '<u>Ve</u>'
+          | replace: 'dr', '<u>dr</u>'
+          | replace: 'Dr', '<u>Dr</u>'
+        %}
         {% assign str = w | remove_first: '^' %}
         {% if str == w %}
           {{ w }}
