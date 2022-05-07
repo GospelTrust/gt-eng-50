@@ -9,7 +9,7 @@ lesson: 50
 {% include lesson/bubble.html text='Yes. I&rsquo;m ^checking in today. My name is John Thomas.' side='right' index=2 %}
 {% include lesson/bubble.html text='You have a ^reservation with us?' side='left' index=3 %}
 {% include lesson/bubble.html text='Uh, yes I ^believe I do. I called in last week.' side='right' index=4 %}
-{% include lesson/bubble.html text='Let me see. John Thomas. It looks like we do. Is your ^reservation for a ^single room.' side='left' index=5 %}
+{% include lesson/bubble.html text='Let me see. John Thomas. It looks like we do. Is your ^reservation for a ^single room?' side='left' index=5 %}
 {% include lesson/bubble.html text='That is ^correct.' side='right' index=6 %}
 {% include lesson/bubble.html text='And you&rsquo;ll be staying with us for five ^nights?' side='left' index=7 %}
 {% include lesson/bubble.html text='Yes, I&rsquo;ll be here for five nights. Maybe more.' side='right' index=8 %}

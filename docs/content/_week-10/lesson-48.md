@@ -13,4 +13,4 @@ lesson: 48
 {% include lesson/bubble.html text='Yes.' side='left' index=6 %}
 {% include lesson/bubble.html text='I ^guess so. I need to get my tooth ^fixed as soon as ^possible.' side='right' index=7 %}
 {% include lesson/bubble.html text='Ok. We&rsquo;ll see you on Saturday.' side='left' index=8 %}
-{% include lesson/bubble.html text='All right.' side='right' index=9 %}
+{% include lesson/bubble.html text='Alright.' side='right' index=9 %}
