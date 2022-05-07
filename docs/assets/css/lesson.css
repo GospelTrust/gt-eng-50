@@ -9,7 +9,6 @@ html {
   --primaryColor: aliceblue;
   --bgColor: #444;
   --fgColor: ivory;
-  --contentWidth: 600px;
 }
 
 body {
@@ -84,12 +83,7 @@ blockquote {
   font-size: 19px;
 }
 
-section.content {
-  display: flex;
-  justify-content: space-around;
-}
 section > div {
-  max-width: var(--contentWidth);
   display: flex;
   flex-direction: column;
 }
