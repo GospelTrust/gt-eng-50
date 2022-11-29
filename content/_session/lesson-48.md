@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Hi. I&rsquo;m calling the ^dentist office. Is doctor Smith ^available?
+  - At the moment doctor Smith is ^busy. Can you ^leave a ^message?
+  - Yes this is Sam. I was in the office last week. Today my ^tooth was really ^bothering me and I&rsquo;d like to see the doctor again.
+  - Ok, Sam. I remember you. He ^told me you had some ^pain from another ^cavity. Can you come in on ^Saturday?
+  - This Saturday?
+  - Yes.
+  - I ^guess so. I need to get my tooth ^fixed as soon as ^possible.
+  - Ok. We&rsquo;ll see you on Saturday.
+  - Alright.
+---

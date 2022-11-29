@@ -1,0 +1,13 @@
+---
+dialogue:
+  - Have you seen a guy ^named Tom?
+  - No. I don&rsquo;t think I have. What does he look like?
+  - He&rsquo;s a little taller than me.
+  - Ok.
+  - He has long, ^straight, black hair.
+  - What color are his eyes? I know a Tom that has black hair and brown eyes.
+  - He has blue eyes.
+  - Oh, then it ^must be a ^different Tom.
+  - Well, if you ^meet him. Let me ^know. I need to ask him a ^question.
+  - Ok.
+---

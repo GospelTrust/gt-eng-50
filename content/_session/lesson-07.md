@@ -1,0 +1,13 @@
+---
+dialogue:
+  - So what did you do this past weekend?
+  - Well, I went to the beach with my ^friends on ^Saturday and ^Sunday.
+  - On Sunday I just stayed at home and watch ^television. How was the beach?
+  - The beach was fun. We went ^swimming for ^hours and hours.
+  - Was it ^tiring?
+  - Yes. That&rsquo;s why I didn&rsquo;t really do anything on Sunday. Plus I got a little ^sunburned.
+  - Yeah, I can tell your face is a little red.
+  - My back is also red and it hurts a little bit, but it was ^worth it
+  - You must really ^enjoy the beach.
+  - I do.
+---

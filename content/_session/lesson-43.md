@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Why ^did you miss school yesterday? We had a ^test.
+  - I was at home ^sick with the ^flu.
+  - You got the flu? That&rsquo;s ^terrible.
+  - When I ^woke up I just ^felt really ^tired. I ^couldn&rsquo;t get out of bed.
+  - But we had a test. You ^missed it.
+  - Oh no. I ^didn&rsquo;t ^remember we had a test.
+  - Do you think I can take it again?
+  - I don&rsquo;t know. ^Our ^teacher is very ^strict.
+  - I ^hope so. I really need to pass the class.
+  - Maybe if you tell the teacher that you were ^sick, he&rsquo;ll let you take the test.
+  - I&rsquo;ll ask him today.
+---

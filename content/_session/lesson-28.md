@@ -1,0 +1,13 @@
+---
+dialogue:
+  - I ^just saw the best ^movie.
+  - Really? Was it a ^comedy or an ^action film?
+  - ^Neither, it was an ^historical ^documentary, and I loved it.
+  - That sounds ^interesting. What made it so good?
+  - The ^story was ^accurate and they did a great job with the ^costumes and the ^scenery.
+  - Where did the story take place?
+  - It took place in ^Europe and I ^believe they ^filmed it there too.
+  - That sounds like something I would ^enjoy. Should I see it?
+  - I think you should; ^especially, if you like history.
+  - This one sounds pretty good. Maybe I&rsquo;ll go see it next week.
+---

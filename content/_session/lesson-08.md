@@ -1,0 +1,12 @@
+---
+dialogue:
+  - ^Excuse me, do you know where ^Walnut ^Street is?
+  - Walnut Street? Hmmm. I&rsquo;ve never heard of Walnut Street. Are you sure it&rsquo;s not ^Maple Street?
+  - Yeah this is my friend&rsquo;s house. He said his ^address is 25 Walnut Street.
+  - Well, I don&rsquo;t know where that street is. Have you ^tried using the map on your ^phone?
+  - Yes, every time I ^type the address up, it just says ^error.
+  - I think you should try 25 Maple Street. It&rsquo;s very close to here.
+  - Maybe I will. How do I get there?
+  - Just ^follow this road until you get to the ^intersection and make a left turn. It&rsquo;s the first street. You&rsquo;ll see it.
+  - Thanks!
+---

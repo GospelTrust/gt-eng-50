@@ -1,0 +1,16 @@
+---
+dialogue:
+  - I ^hate rainy days. Every time it rains, my ^hair gets all ^wet.
+  - Well! Why don&rsquo;t you take an ^umbrella?
+  - I do take an umbrella. But it still gets wet.
+  - I love rainy days.
+  - What? Why?
+  - Because when it rains I can stay ^inside and drink some ^warm hot ^chocolate by the ^fire. After it rains all the ^plants and trees turn ^green.
+  - Not in the ^winter.
+  - Well it ^depends on where you live. I live in ^Hawaii. It rains a lot but it is never too cold there.
+  - I&rsquo;m from ^Colorado. We have cold rain and then it ^snows. I hate snow too.
+  - What? You don&rsquo;t like the snow?
+  - I like a ^little ^snow. But when we have snow every day for three months it gets old and it&rsquo;s ^freezing.
+  - Well, maybe we should ^switch ^places.
+  - That&rsquo;s a good idea.
+---

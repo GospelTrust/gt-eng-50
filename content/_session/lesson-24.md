@@ -1,0 +1,13 @@
+---
+dialogue:
+  - Hey ^Jane. Could you do me a big ^favor?
+  - ^Absolutely! What do you need?
+  - I have a big ^report that I need to ^print out. But I just found out that my ^printer is ^completely out of ^ink. Can you go to the store and buy me some ink. I need black ink and ^color ink.
+  - Ok. How much will it ^cost.
+  - It should be ^almost 50 ^dollars. I can ^reimburse you later is that ok?
+  - Sure!
+  - And could you pick up white paper too? I&rsquo;m running low on that.
+  - Sure. So I&rsquo;ll get ink and white paper.
+  - Yes. And I&rsquo;ll pay you back ^tomorrow.
+  - I&rsquo;ll expect that.
+---

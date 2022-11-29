@@ -1,0 +1,16 @@
+---
+dialogue:
+  - Where did you ^grow up? You sound like you are not from ^around here.
+  - You&rsquo;re right. I ^grew up in the ^countryside.
+  - Did you live on a ^farm?
+  - ^Actually yes. My family owns a farm in the country.
+  - Do you have any ^animals out there?
+  - ^Definitely! We have ^cows, ^chickens and ^goats.
+  - What do you grow on the farm?
+  - We mainly grow ^corn, but we also have other ^plants.
+  - Do you grow ^apples? I love apples.
+  - Not really. We have one apple tree but it doesn&rsquo;t grow very many apples.
+  - And what about ^oranges?
+  - We have a lot of oranges. Maybe I&rsquo;ll bring you some next time I go back.
+  - ^Cool!
+---

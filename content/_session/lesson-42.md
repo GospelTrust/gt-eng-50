@@ -1,0 +1,12 @@
+---
+dialogue:
+  - I&rsquo;m ^thirsty. Do you want to get something to drink?
+  - Yes, that sounds good. Where to?
+  - Let&rsquo;s go to the coffee shop on the ^corner.
+  - Is that where you ^went last time?
+  - No, that was a ^different ^location. That was good too. Do you want to go there again?
+  - Sure. I ^bought a ^frappuccino.
+  - I remember. I ^just got a coffee with cream. It ^was so good.
+  - Let&rsquo;s go.
+  - Ok.
+---

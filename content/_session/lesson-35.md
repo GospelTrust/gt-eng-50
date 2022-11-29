@@ -1,0 +1,16 @@
+---
+dialogue:
+  - My computer isn&rsquo;t working. Can you help me ^find a new one.
+  - Sure. What ^kind ^of computer do you have?
+  - It was a laptop. I use it everyday for ^work.
+  - May I ask what ^happened to it?
+  - I was at a coffee shop, and some guy ^spilled his coffee on it. After that, it just ^wouldn&rsquo;t turn on anymore.
+  - Here are all of our ^newest laptops. Do you have any in mind?
+  - No, I just need one with a lot of memory ^space.
+  - We have one with one ^terabyte of space. Will that be ^enough?
+  - One terabyte should be ^plenty. How much?
+  - Six hundred ^dollars plus tax.
+  - Perfect! I&rsquo;ll take this one. Does it come in another color?
+  - Yes, Grey, Black, and White.
+  - Ok. I&rsquo;ll take a black one.
+---

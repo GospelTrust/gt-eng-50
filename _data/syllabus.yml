@@ -1,0 +1,130 @@
+week-01:
+  title: 'Week 1'
+  segment: ['section', 1]
+  begin: 2022-02-13
+  end: 2022-02-19
+  theme: c1
+  items:
+    - lesson-01
+    - lesson-02
+    - lesson-03
+    - lesson-04
+    - lesson-05
+
+week-02:
+  title: 'Week 2'
+  segment: ['section', 2]
+  begin: 2022-02-20
+  end: 2022-02-26
+  theme: c3
+  items:
+    - lesson-06
+    - lesson-07
+    - lesson-08
+    - lesson-09
+    - lesson-10
+
+week-03:
+  title: 'Week 3'
+  segment: ['section', 3]
+  begin: 2022-02-27
+  end: 2022-03-05
+  theme: c5
+  items:
+    - lesson-11
+    - lesson-12
+    - lesson-13
+    - lesson-14
+    - lesson-15
+
+week-04:
+  title: 'Week 4'
+  segment: ['section', 4]
+  begin: 2022-03-06
+  end: 2022-03-12
+  theme: c7
+  items:
+    - lesson-16
+    - lesson-17
+    - lesson-18
+    - lesson-19
+    - lesson-20
+
+week-05:
+  title: 'Week 5'
+  segment: ['section', 5]
+  begin: 2022-03-13
+  end: 2022-03-19
+  theme: c9
+  items:
+    - lesson-21
+    - lesson-22
+    - lesson-23
+    - lesson-24
+    - lesson-25
+
+week-06:
+  title: 'Week 6'
+  segment: ['section', 6]
+  begin: 2022-04-03
+  end: 2022-04-16
+  theme: c2
+  items:
+    - lesson-26
+    - lesson-27
+    - lesson-28
+    - lesson-29
+    - lesson-30
+
+week-07:
+  title: 'Week 7'
+  segment: ['section', 7]
+  begin: 2022-04-17
+  end: 2022-04-23
+  theme: c4
+  items:
+    - lesson-31
+    - lesson-32
+    - lesson-33
+    - lesson-34
+    - lesson-35
+
+week-08:
+  title: 'Week 8'
+  segment: ['section', 8]
+  begin: 2022-04-24
+  end: 2022-04-30
+  theme: c6
+  items:
+    - lesson-36
+    - lesson-37
+    - lesson-38
+    - lesson-39
+    - lesson-40
+
+week-09:
+  title: 'Week 9'
+  segment: ['section', 9]
+  begin: 2022-05-01
+  end: 2022-05-07
+  theme: c8
+  items:
+    - lesson-41
+    - lesson-42
+    - lesson-43
+    - lesson-44
+    - lesson-45
+
+week-10:
+  title: 'Week 10'
+  segment: ['section', 10]
+  begin: 2022-05-08
+  end: 2022-05-14
+  theme: c10
+  items:
+    - lesson-46
+    - lesson-47
+    - lesson-48
+    - lesson-49
+    - lesson-50
+

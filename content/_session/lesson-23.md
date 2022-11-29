@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Can you help me? I&rsquo;m ^looking for a ^book.
+  - Sure! what book are you looking for?
+  - It&rsquo;s called ^War.
+  - Ok, what is the name of the ^author?
+  - The author&rsquo;s name is ^John ^Smith.
+  - Ok, give me a ^second. Let me check to see if we have it. Ok, it looks like we don&rsquo;t have the book here. But we do have it in ^another ^store. Would you like to ^order it?
+  - Sure, that would be great!
+  - We can have it here by ^Thursday. We&rsquo;ll ^save it for you.
+  - ^Excellent! I ^guess I&rsquo;ll be back on Thursday to pick it up.
+---

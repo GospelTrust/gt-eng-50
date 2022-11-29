@@ -1,0 +1,16 @@
+---
+dialogue:
+  - What are you ^making?
+  - I&rsquo;m ^decorating a ^birthday ^cake.
+  - ^Who&rsquo;s having a birthday?
+  - My ^friend, Tom. He&rsquo;s ^turning ^thirty ^tomorrow.
+  - Wow! Does he know you&rsquo;re making him a cake?
+  - No, he&rsquo;ll be ^surprised. We&rsquo;re having dinner and I think he needs a cake too.
+  - That&rsquo;s so ^nice. Just so you know, my birthday&rsquo;s in ^November.
+  - I&rsquo;ll keep that in ^mind.
+  - And I love ^chocolate cake.
+  - Ok. Got it!
+  - And, every chocolate cake needs chocolate ice cream with it.
+  - Your ^message is ^clear.
+  - Just ^kidding! I think that it&rsquo;s very nice of you.
+---

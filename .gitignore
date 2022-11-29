@@ -1,4 +1,5 @@
-docs/_site
+_site
 .jekyll-cache/
-jekyll.sh
 *.swp
+vendor/
+runme.sh

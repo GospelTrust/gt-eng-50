@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Did you ^hear what happened in the ^news?
+  - What happened?
+  - It was a ^huge ^earthquake in South America.
+  - Really?
+  - Yeah, they say it was an 8.0 on the ^Richter ^Scale.
+  - What does that mean? Is that ^bad?
+  - Yes, that&rsquo;s a very strong ^earthquake.
+  - Did anyone get ^hurt?
+  - They say many ^buildings ^collapsed. It is ^possible that many people could have ^died.
+  - That is ^terrible.
+  - Yeah it is.
+---

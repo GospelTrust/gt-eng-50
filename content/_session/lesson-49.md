@@ -1,0 +1,12 @@
+---
+dialogue:
+  - ^Housekeeping. May I come in?
+  - Just a ^minute! Ok, you can come in.
+  - Is now a good time to ^clean your room or ^should I come back a ^little ^later?
+  - You can do it now. I was just getting ready to leave. Is there a ^breakfast ^upstairs today?
+  - Yes, there is.
+  - And could you do me a ^favor?
+  - What is it?
+  - Can you give me some ^extra ^towels and one extra ^blanket?
+  - Sure. That would be no ^problem sir.
+---

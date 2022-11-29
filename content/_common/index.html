@@ -1,0 +1,30 @@
+---
+layout: default
+title: '300 Common Words'
+---
+
+{%- assign classes = site.data.common.index.classes -%}
+
+<h1 class="special">{{ page.title }}</h1>
+
+<ul class="grid">
+  {% for class in classes %}
+    {%- assign item = site.data.common.index[class] %}
+    {% assign count = site.data.common[class] | size -%}
+    <li class="card-tab c{{ forloop.index }}">
+      <div class="top-bar">{{ item.title }}</div>
+      <div class="tab">{{ count }}</div>
+      <div class="header">&nbsp;</div>
+
+      {% if count > 0 %}
+        <div class="body">
+          <div class="item">
+            <a href="/{{ page.collection }}/{{ class }}">
+              <h3>{{ item.title }}</h3>
+            </a>
+          </div>
+        </div>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

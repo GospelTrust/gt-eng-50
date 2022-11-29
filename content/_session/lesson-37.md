@@ -1,0 +1,12 @@
+---
+dialogue:
+  - I&rsquo;m here to check out.
+  - ^Great sir! How was your stay?
+  - It ^could&rsquo;ve been much ^better.
+  - May I ^ask how it could&rsquo;ve been better?
+  - I ^thought my room included ^breakfast but you ^charged me for breakfast. The room next door was really ^loud. I ^called the front desk about it, but they didn&rsquo;t do anything about it.
+  - I&rsquo;m sorry to hear that sir.
+  - And my TV didn&rsquo;t work. I ^wanted to watch the game, but I ^missed it.
+  - May we offer you a ^discount ^coupon. That sounds like a ^terrible ^experience.
+  - I guess that ^would be ok. I hope next time is much, much better.
+---

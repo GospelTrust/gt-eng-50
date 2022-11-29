@@ -1,0 +1,607 @@
+syllabus:
+  segment: 'week-01'
+  title: '50 English Lessons'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+lesson-01:
+  segment: 'week-01'
+  title: 'Late to Work'
+  icon: web_stories
+  width: max
+  header: 'Lesson 1'
+  sequence: 1
+  type: 'Dialog'
+  url: 'lesson-01'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=7&end=101&rel=0&showinfo=0&modestbranding=1
+
+lesson-02:
+  segment: 'week-01'
+  title: 'Do You Have a Dog?'
+  icon: web_stories
+  width: max
+  header: 'Lesson 2'
+  sequence: 2
+  type: 'Dialog'
+  url: 'lesson-02'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=102&end=173&rel=0&showinfo=0&modestbranding=1
+
+lesson-03:
+  segment: 'week-01'
+  title: 'You Have a Beautiful Office'
+  icon: web_stories
+  width: max
+  header: 'Lesson 3'
+  sequence: 3
+  type: 'Dialog'
+  url: 'lesson-03'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=273&end=376&rel=0&showinfo=0&modestbranding=1
+
+lesson-04:
+  segment: 'week-01'
+  title: 'Ice Cream Shop'
+  icon: web_stories
+  width: max
+  header: 'Lesson 4'
+  sequence: 4
+  type: 'Dialog'
+  url: 'lesson-04'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=377&end=434&rel=0&showinfo=0&modestbranding=1
+
+lesson-05:
+  segment: 'week-01'
+  title: 'Where Did You Grow Up?'
+  icon: web_stories
+  width: max
+  header: 'Lesson 5'
+  sequence: 5
+  type: 'Dialog'
+  url: 'lesson-05'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=435&end=596&rel=0&showinfo=0&modestbranding=1
+
+lesson-06:
+  segment: 'week-02'
+  title: 'The Cloudy Weather'
+  icon: web_stories
+  width: max
+  header: 'Lesson 6'
+  sequence: 6
+  type: 'Dialog'
+  url: 'lesson-06'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=596&end=695&rel=0&showinfo=0&modestbranding=1
+
+lesson-07:
+  segment: 'week-02'
+  title: 'Your Weekend'
+  icon: web_stories
+  width: max
+  header: 'Lesson 7'
+  sequence: 7
+  type: 'Dialog'
+  url: 'lesson-07'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=696&end=799&rel=0&showinfo=0&modestbranding=1
+
+lesson-08:
+  segment: 'week-02'
+  title: "I'm Lost"
+  icon: web_stories
+  width: max
+  header: 'Lesson 8'
+  sequence: 8
+  type: 'Dialog'
+  url: 'lesson-08'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=800&end=858&rel=0&showinfo=0&modestbranding=1
+
+lesson-09:
+  segment: 'week-02'
+  title: 'Driving Directions'
+  icon: web_stories
+  width: max
+  header: 'Lesson 9'
+  sequence: 9
+  type: 'Dialog'
+  url: 'lesson-09'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=859&end=1026&rel=0&showinfo=0&modestbranding=1
+
+lesson-10:
+  segment: 'week-02'
+  title: 'Haircut'
+  icon: web_stories
+  width: max
+  header: 'Lesson 10'
+  sequence: 10
+  type: 'Dialog'
+  url: 'lesson-10'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1026&end=1080&rel=0&showinfo=0&modestbranding=1
+
+lesson-11:
+  segment: 'week-03'
+  title: 'Planting'
+  icon: web_stories
+  width: max
+  header: 'Lesson 11'
+  sequence: 11
+  type: 'Dialog'
+  url: 'lesson-11'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1081&end=1153&rel=0&showinfo=0&modestbranding=1
+
+lesson-12:
+  segment: 'week-03'
+  title: 'The Zoo'
+  icon: web_stories
+  width: max
+  header: 'Lesson 12'
+  sequence: 12
+  type: 'Dialog'
+  url: 'lesson-12'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1154&end=1228&rel=0&showinfo=0&modestbranding=1
+
+lesson-13:
+  segment: 'week-03'
+  title: 'First Day of School'
+  icon: web_stories
+  width: max
+  header: 'Lesson 13'
+  sequence: 13
+  type: 'Dialog'
+  url: 'lesson-13'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1228&end=1301&rel=0&showinfo=0&modestbranding=1
+
+lesson-14:
+  segment: 'week-03'
+  title: 'Vegetable Shopping'
+  icon: web_stories
+  width: max
+  header: 'Lesson 14'
+  sequence: 14
+  type: 'Dialog'
+  url: 'lesson-14'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1301&end=1369&rel=0&showinfo=0&modestbranding=1
+
+lesson-15:
+  segment: 'week-03'
+  title: 'How Are You?'
+  icon: web_stories
+  width: max
+  header: 'Lesson 15'
+  sequence: 15
+  type: 'Dialog'
+  url: 'lesson-15'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1370&end=1467&rel=0&showinfo=0&modestbranding=1
+
+lesson-16:
+  segment: 'week-04'
+  title: 'No Homework!'
+  icon: web_stories
+  width: max
+  header: 'Lesson 16'
+  sequence: 16
+  type: 'Dialog'
+  url: 'lesson-16'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1468&end=1559&rel=0&showinfo=0&modestbranding=1
+
+lesson-17:
+  segment: 'week-04'
+  title: 'Rainy Day'
+  icon: web_stories
+  width: max
+  header: 'Lesson 17'
+  sequence: 17
+  type: 'Dialog'
+  url: 'lesson-17'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1623&end=1733&rel=0&showinfo=0&modestbranding=1
+
+lesson-18:
+  segment: 'week-04'
+  title: 'Looking Good'
+  icon: web_stories
+  width: max
+  header: 'Lesson 18'
+  sequence: 18
+  type: 'Dialog'
+  url: 'lesson-18'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1733&end=1830&rel=0&showinfo=0&modestbranding=1
+
+lesson-19:
+  segment: 'week-04'
+  title: 'Favorite Sport'
+  icon: web_stories
+  width: max
+  header: 'Lesson 19'
+  sequence: 19
+  type: 'Dialog'
+  url: 'lesson-19'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1830&end=1879&rel=0&showinfo=0&modestbranding=1
+
+lesson-20:
+  segment: 'week-04'
+  title: 'Weekend Plans'
+  icon: web_stories
+  width: max
+  header: 'Lesson 20'
+  sequence: 20
+  type: 'Dialog'
+  url: 'lesson-20'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=1880&end=2031&rel=0&showinfo=0&modestbranding=1
+
+lesson-21:
+  segment: 'week-05'
+  title: 'Hurricanes'
+  icon: web_stories
+  width: max
+  header: 'Lesson 21'
+  sequence: 21
+  type: 'Dialog'
+  url: 'lesson-21'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2032&end=2131&rel=0&showinfo=0&modestbranding=1
+
+lesson-22:
+  segment: 'week-05'
+  title: 'Hotel'
+  icon: web_stories
+  width: max
+  header: 'Lesson 22'
+  sequence: 22
+  type: 'Dialog'
+  url: 'lesson-22'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2132&end=2184&rel=0&showinfo=0&modestbranding=1
+
+lesson-23:
+  segment: 'week-05'
+  title: 'At the Bookstore'
+  icon: web_stories
+  width: max
+  header: 'Lesson 23'
+  sequence: 23
+  type: 'Dialog'
+  url: 'lesson-23'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2184&end=2319&rel=0&showinfo=0&modestbranding=1
+
+lesson-24:
+  segment: 'week-05'
+  title: 'In the Office'
+  icon: web_stories
+  width: max
+  header: 'Lesson 24'
+  sequence: 24
+  type: 'Dialog'
+  url: 'lesson-24'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2319&end=2367&rel=0&showinfo=0&modestbranding=1
+
+lesson-25:
+  segment: 'week-05'
+  title: 'Blue Dress'
+  icon: web_stories
+  width: max
+  header: 'Lesson 25'
+  sequence: 25
+  type: 'Dialog'
+  url: 'lesson-25'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2367&end=2515&rel=0&showinfo=0&modestbranding=1
+
+lesson-26:
+  segment: 'week-06'
+  title: 'Holiday Plans'
+  icon: web_stories
+  width: max
+  header: 'Lesson 26'
+  sequence: 26
+  type: 'Dialog'
+  url: 'lesson-26'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2515&end=2626&rel=0&showinfo=0&modestbranding=1
+
+lesson-27:
+  segment: 'week-06'
+  title: 'Tell Me About Your Family'
+  icon: web_stories
+  width: max
+  header: 'Lesson 27'
+  sequence: 27
+  type: 'Dialog'
+  url: 'lesson-27'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2627&end=2683&rel=0&showinfo=0&modestbranding=1
+
+lesson-28:
+  segment: 'week-06'
+  title: 'Movies'
+  icon: web_stories
+  width: max
+  header: 'Lesson 28'
+  sequence: 28
+  type: 'Dialog'
+  url: 'lesson-28'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2684&end=2814&rel=0&showinfo=0&modestbranding=1
+
+lesson-29:
+  segment: 'week-06'
+  title: 'Cleaning Out My Purse'
+  icon: web_stories
+  width: max
+  header: 'Lesson 29'
+  sequence: 29
+  type: 'Dialog'
+  url: 'lesson-29'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2815&end=2857&rel=0&showinfo=0&modestbranding=1
+
+lesson-30:
+  segment: 'week-06'
+  title: 'Birthday Cake'
+  icon: web_stories
+  width: max
+  header: 'Lesson 30'
+  sequence: 30
+  type: 'Dialog'
+  url: 'lesson-30'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2858&end=2953&rel=0&showinfo=0&modestbranding=1
+
+lesson-31:
+  segment: 'week-07'
+  title: 'The Weather is Nice'
+  icon: web_stories
+  width: max
+  header: 'Lesson 31'
+  sequence: 31
+  type: 'Dialog'
+  url: 'lesson-31'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=2954&end=3038&rel=0&showinfo=0&modestbranding=1
+
+lesson-32:
+  segment: 'week-07'
+  title: 'Classes'
+  icon: web_stories
+  width: max
+  header: 'Lesson 32'
+  sequence: 32
+  type: 'Dialog'
+  url: 'lesson-32'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3038&end=3120&rel=0&showinfo=0&modestbranding=1
+
+lesson-33:
+  segment: 'week-07'
+  title: 'A Guy Named Tom'
+  icon: web_stories
+  width: max
+  header: 'Lesson 33'
+  sequence: 33
+  type: 'Dialog'
+  url: 'lesson-33'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3121&end=3235&rel=0&showinfo=0&modestbranding=1
+
+lesson-34:
+  segment: 'week-07'
+  title: 'Movies'
+  icon: web_stories
+  width: max
+  header: 'Lesson 34'
+  sequence: 34
+  type: 'Dialog'
+  url: 'lesson-34'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3236&end=3280&rel=0&showinfo=0&modestbranding=1
+
+lesson-35:
+  segment: 'week-07'
+  title: 'Computer Shopping'
+  icon: web_stories
+  width: max
+  header: 'Lesson 35'
+  sequence: 35
+  type: 'Dialog'
+  url: 'lesson-35'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3280&end=3402&rel=0&showinfo=0&modestbranding=1
+
+lesson-36:
+  segment: 'week-08'
+  title: 'A Photograph'
+  icon: web_stories
+  width: max
+  header: 'Lesson 36'
+  sequence: 36
+  type: 'Dialog'
+  url: 'lesson-36'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3403&end=3539&rel=0&showinfo=0&modestbranding=1
+
+lesson-37:
+  segment: 'week-08'
+  title: 'Check Out'
+  icon: web_stories
+  width: max
+  header: 'Lesson 37'
+  sequence: 37
+  type: 'Dialog'
+  url: 'lesson-37'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3540&end=3588&rel=0&showinfo=0&modestbranding=1
+
+lesson-38:
+  segment: 'week-08'
+  title: 'The Time'
+  icon: web_stories
+  width: max
+  header: 'Lesson 38'
+  sequence: 38
+  type: 'Dialog'
+  url: 'lesson-38'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3589&end=3696&rel=0&showinfo=0&modestbranding=1
+
+lesson-39:
+  segment: 'week-08'
+  title: 'Ordering Food'
+  icon: web_stories
+  width: max
+  header: 'Lesson 39'
+  sequence: 39
+  type: 'Dialog'
+  url: 'lesson-39'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3697&end=3751&rel=0&showinfo=0&modestbranding=1
+
+lesson-40:
+  segment: 'week-08'
+  title: "I'm Sick"
+  icon: web_stories
+  width: max
+  header: 'Lesson 40'
+  sequence: 40
+  type: 'Dialog'
+  url: 'lesson-40'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3752&end=3816&rel=0&showinfo=0&modestbranding=1
+
+lesson-41:
+  segment: 'week-09'
+  title: 'I Cut My Hand'
+  icon: web_stories
+  width: max
+  header: 'Lesson 41'
+  sequence: 41
+  type: 'Dialog'
+  url: 'lesson-41'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3817&end=3906&rel=0&showinfo=0&modestbranding=1
+
+lesson-42:
+  segment: 'week-09'
+  title: 'Coffee Shop'
+  icon: web_stories
+  width: max
+  header: 'Lesson 42'
+  sequence: 42
+  type: 'Dialog'
+  url: 'lesson-42'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3907&end=3941&rel=0&showinfo=0&modestbranding=1
+
+lesson-43:
+  segment: 'week-09'
+  title: 'I Missed School Day'
+  icon: web_stories
+  width: max
+  header: 'Lesson 43'
+  sequence: 43
+  type: 'Dialog'
+  url: 'lesson-43'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=3942&end=4028&rel=0&showinfo=0&modestbranding=1
+
+lesson-44:
+  segment: 'week-09'
+  title: 'The News'
+  icon: web_stories
+  width: max
+  header: 'Lesson 44'
+  sequence: 44
+  type: 'Dialog'
+  url: 'lesson-44'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4029&end=4095&rel=0&showinfo=0&modestbranding=1
+
+lesson-45:
+  segment: 'week-09'
+  title: 'Good News'
+  icon: web_stories
+  width: max
+  header: 'Lesson 45'
+  sequence: 45
+  type: 'Dialog'
+  url: 'lesson-45'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4096&end=4157&rel=0&showinfo=0&modestbranding=1
+
+lesson-46:
+  segment: 'week-10'
+  title: 'Ordering Food at a Restaurant'
+  icon: web_stories
+  width: max
+  header: 'Lesson 46'
+  sequence: 46
+  type: 'Dialog'
+  url: 'lesson-46'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4158&end=4248&rel=0&showinfo=0&modestbranding=1
+
+lesson-47:
+  segment: 'week-10'
+  title: 'Somebody Stole my Car'
+  icon: web_stories
+  width: max
+  header: 'Lesson 47'
+  sequence: 47
+  type: 'Dialog'
+  url: 'lesson-47'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4248&end=4302&rel=0&showinfo=0&modestbranding=1
+
+lesson-48:
+  segment: 'week-10'
+  title: 'At the Dentist Office'
+  icon: web_stories
+  width: max
+  header: 'Lesson 48'
+  sequence: 48
+  type: 'Dialog'
+  url: 'lesson-48'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4303&end=4384&rel=0&showinfo=0&modestbranding=1
+
+lesson-49:
+  segment: 'week-10'
+  title: 'Housekeeping'
+  icon: web_stories
+  width: max
+  header: 'Lesson 49'
+  sequence: 49
+  type: 'Dialog'
+  url: 'lesson-49'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4385&end=4459&rel=0&showinfo=0&modestbranding=1
+
+lesson-50:
+  segment: 'week-10'
+  title: 'Checking into the Hotel'
+  icon: web_stories
+  width: max
+  header: 'Lesson 50'
+  sequence: 50
+  type: 'Dialog'
+  url: 'lesson-50'
+  videos:
+    - https://www.youtube.com/embed/kxb8EpyhKro?start=4460&end=4539&rel=0&showinfo=0&modestbranding=1

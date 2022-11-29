@@ -1,0 +1,15 @@
+---
+dialogue:
+  - Hi, this place ^sells ^ice cream, right?
+  - Yes, we do. We have many ^different ^varieties of ice cream here.
+  - Excellent, So what ^flavors of ice cream do you have? ^Anything new?
+  - We have all the basic flavors like ^chocolate and ^vanilla. We also have many new flavors.
+  - Do you have ^blackberry ice cream?
+  - No, we used to have it, but it was very ^popular so we ran out.
+  - ^Tsk, ^awe man. I really like blackberry. How about ^coffee flavor?
+  - We have coffee flavor. How many ^scoops would you like?
+  - I&rsquo;ll take two scoops of coffee and one scoop of vanilla.
+  - Ok. That will be five ^dollars.
+  - Here you go.
+  - Thank you.
+---

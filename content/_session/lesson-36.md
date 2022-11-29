@@ -1,0 +1,11 @@
+---
+dialogue:
+  - I love this ^picture! Where was it ^taken?
+  - This was taken last year. We went to the ^Bahamas for ^vacation.
+  - Where are you ^exactly in this picture?
+  - We are in ^front of ^our hotel. It was five stars. ^Honestly it was the ^nicest hotel ^I&rsquo;ve ever seen.
+  - That ^sounds so cool. And it looks like it is right next to the ^beach.
+  - Yes, there was a ^private beach and a ^pool. And everything was ^included. Food, bar, everything.
+  - Wow, I want to go there so ^badly.
+  - I think you should.
+---

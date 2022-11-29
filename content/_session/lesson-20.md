@@ -1,0 +1,13 @@
+---
+dialogue:
+  - Do you have any plans for this ^weekend?
+  - No, why? And what are you doing?
+  - I was ^thinking of going to the ^beach. My friend owns a house that is ^literally next to the beach.
+  - Wow! That sounds nice. What are you going to do there?
+  - Well, I&rsquo;ve never done ^surfing before. My friend said he would ^teach me.
+  - I have always wanted to do surfing. Do you think it is hard?
+  - I don&rsquo;t know. Do you want to go? You can try too. He has an ^extra ^surfboard.
+  - Are you sure? Would he says it&rsquo;s ok?
+  - Oh yeah! He loves having new people ^over. Let&rsquo;s go, it&rsquo;ll be so much fun.
+  - I can&rsquo;t wait!
+---

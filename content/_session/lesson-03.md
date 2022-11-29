@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Is this your ^office?
+  - Yes.
+  - It&rsquo;s beautiful. How long have you been ^working here?
+  - I&rsquo;ve been in this office for about 3 ^months.
+  - It looks ^brand new!
+  - It was ^built about a year ago. It&rsquo;s ^pretty new.
+  - Your old office was old, wasn&rsquo;t it?
+  - Yes, everything in that office was old. Even the ^electricity didn&rsquo;t work ^sometimes.
+  - That&rsquo;s ^terrible! But this office is so much better.
+  - Yes, I finally ^decided it would be a good idea to move.
+  - Well, I think it was a great idea. This office is ^fantastic!
+---

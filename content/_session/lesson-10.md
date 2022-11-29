@@ -1,0 +1,11 @@
+---
+dialogue:
+  - I like your ^haircut. How did you ^choose your new ^style?
+  - I didn&rsquo;t. The ^barber did. I ^thought he would know best.
+  - He did a good job. How do you like having ^shorter hair?
+  - It&rsquo;s ok. I know it&rsquo;ll grow out. But I might keep it this way... ^Several people have said they ^liked it too.
+  - Would you ^recommend him to cut my hair? I need a haircut too. But I don&rsquo;t have a barber in the city yet.
+  - Sure. I think you&rsquo;ll like him. They also ^provide other services. ...and they have TVs so you won&rsquo;t get ^bored when they cut your hair.
+  - That sounds great! Can you give me his ^number?
+  - Sure! Here it is. Good luck!
+---

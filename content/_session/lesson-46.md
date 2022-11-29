@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Are you ^ready to order?
+  - Yes, I ^think we are.
+  - Ok. What can I get ^started for you?
+  - I would like to get a hamburger with ^ketchup and ^lettuce.
+  - Ok. That comes with a side of ^french ^fries. Is that ok?
+  - Sure. Also we&rsquo;ll get some ^appetizers. Which appetizers do you have?
+  - ^Actually today we&rsquo;re out of appetizers. They will be out of ^stock until next week.
+  - Ok. Then we will get two more hamburgers and a salad.
+  - What would you like to ^drink?
+  - We&rsquo;ll just get tea for everyone.
+  - Ok. That ^sounds great. I&rsquo;ll be right back.
+---

@@ -1,0 +1,15 @@
+---
+dialogue:
+  - Do you have a ^dog?
+  - Yes! I have a ^beautiful ^golden ^retriever who I ^consider to be a family member.
+  - How long have you had it?
+  - She has been in our family since she was a ^puppy. Goldy is 7 years old this year.
+  - Why did you name her Goldy?
+  - Because she is golden, and her ^fur is ^soft and golden.
+  - That makes sense. Is she an ^indoor dog or an ^outdoor dog?
+  - She ^stays with us in the house ^mostly, but she loves to ^chase ^birds ^outside.
+  - That must be fun for her but ^scary for the birds outside.
+  - I don&rsquo;t think she would ^hurt a bird, but she likes to chase them.
+  - I&rsquo;ve ^thought about getting a dog.
+  - Good ^idea! You&rsquo;d love it! They are very ^entertaining.
+---

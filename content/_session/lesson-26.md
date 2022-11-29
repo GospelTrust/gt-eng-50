@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Do you have any plans for the ^holidays?
+  - Not yet. But we&rsquo;re ^still ^talking about what we want to do. What are you doing?
+  - We&rsquo;re planning on going to an ^amusement park.
+  - That should be a ^great time. What are you ^looking ^forward to most?
+  - I love the ^rides ^especially the ^roller ^coasters. I like to go fast.
+  - I don&rsquo;t really like roller coasters. I ^prefer the ^slower rides.
+  - And how about the food?
+  - I love the food. ^Especially the ice cream and candy.
+  - No ^kidding. That&rsquo;s the best.
+  - Well, have a great time! And I want to see ^photos when you get back.
+  - I&rsquo;ll bring my ^camera. We should have some good ones.
+---

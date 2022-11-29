@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Can you please help me find some ^potatoes?
+  - Yes, they are over ^next to the ^onions.
+  - Oh great! I need onions also.
+  - What are you ^planning to ^cook?
+  - I&rsquo;m ^preparing our family ^favorite soup to go with our ^lunch.
+  - Do you put ^tomatoes in it?
+  - Yes, it has a tomato sauce with tomato ^broth and ^vegetables.
+  - That sounds ^delicious. Have a great lunch.
+  - Oh, we will.
+---

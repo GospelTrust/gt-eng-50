@@ -1,0 +1,17 @@
+---
+dialogue:
+  - How are you doing, Sam?
+  - I&rsquo;m doing ^really well. Long time no see.
+  - Yeah, it has ^been a long time. At least two ^months.
+  - So what have you been up to?
+  - Well I got a new ^job and I ^moved into a new house.
+  - A new job and a new ^house? What are you doing now?
+  - I sell ^insurance. My old job was so ^boring that I just ^decided to ^quit.
+  - And where do you live now?
+  - I&rsquo;m just on the other side of town. ^Actually a lot closer to you. We should ^hang out more.
+  - Sounds good.
+  - You have my number right?
+  - Yeah I think I do, ^I&rsquo;ll call you ^soon!
+  - Great, see you!
+  - See you!
+---

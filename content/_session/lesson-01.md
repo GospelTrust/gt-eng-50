@@ -1,0 +1,18 @@
+---
+dialogue:
+  - I&rsquo;m sorry I was ^late to ^work ^today.
+  - Yeah, what ^happened?
+  - I had a ^flat ^tire.
+  - Oh No! ^Were you in ^traffic?
+  - No. I was on a side ^road. I ^rode my bike today.
+  - You ride your bike everyday?
+  - Of ^course. ^Don&rsquo;t you?
+  - No, I ^drive my car.
+  - Do you have a ^bicycle?
+  - I do. But I only ride it on the ^weekends.
+  - Who do you ^ride with?
+  - ^Everyone in my ^family has a bicycle. We ride ^together.
+  - That&rsquo;s ^really ^nice!
+  - Yes. It&rsquo;s fun
+  - And it&rsquo;s good ^exercise too!
+---

@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Where ^were you yesterday?
+  - I ^wasn&rsquo;t feeling very well.
+  - What ^happened?
+  - I had a really bad ^headache and I felt ^dizzy.
+  - Did you go see a doctor?
+  - No, I ^thought about it. But I ^decided to just stay home and sleep.
+  - Did you take any ^medicine?
+  - Yes. I ^took some medicine with water and then I ^rested the rest of the day.
+  - Well, I&rsquo;m glad you&rsquo;re ^better now.
+---

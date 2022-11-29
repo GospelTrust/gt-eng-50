@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Have you seen my ^blue ^dress?
+  - I&rsquo;ve seen a ^green dress but not a blue dress. Which blue dress are you ^talking about?
+  - You know, the blue dress I wore to ^Kathy&rsquo;s ^party.
+  - Oh that blue dress. I haven&rsquo;t seen it in a long time. Not ^since the party.
+  - I really like that dress, but I have no ^idea where it is.
+  - Where did you see it last?
+  - Maybe in the car. Oh, I think it&rsquo;s in the car.
+  - Go ^check and see.
+  - Here it is. It was in the ^trunk of the car the ^whole time.
+---

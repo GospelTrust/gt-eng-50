@@ -1,0 +1,103 @@
+{%- assign class = page.relative_path | remove_first: '_common/' | remove: '.md' %}
+{%- assign col = site.data.common.index[class] %}
+{%- assign words = site.data.common[class] %}
+{%- assign title = words | size | append: ' Common ' | append: col.title %}
+<!doctype html>
+<html lang="en">
+  <head>
+    {%- include head/meta.html -%}
+    {%- include head/common.html -%}
+    <link rel="stylesheet" href="{{ 'assets/css/session.css' |  relative_url }}" />
+    <style>
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        grid-gap: 10px;
+        font-family: var(--font-tertiary);
+        font-size: 20px;
+      }
+      .grid-item {
+        height: 50px;
+        justify-content: center;
+        color: var(--color-bg);
+        background-color: var(--color-tertiary);
+        border-radius: 7px;
+      }
+      .done {
+        animation: fadeOut 1s;
+        opacity: 0.2;
+        background-color: var(--color-fg);
+      }
+      @keyframes fadeOut {
+        0% {opacity:1;}
+        100% {opacity:0.2;}
+      }
+      a.material-symbols-outlined {
+        display: inline-block;
+        padding: 5px 20px;
+      }
+    </style>
+  </head>
+  <body>
+    {%- include logo.html title=title size=site.acc.logo.size href='/common' %}
+    <div class="center-align special">
+      <div>
+        <a onClick="javascript:alpha()" href="#" class="material-symbols-outlined">sort_by_alpha</a>
+        <a onClick="javascript:shuffle()" href="#" class="material-symbols-outlined">shuffle</a>
+        <a onClick="javascript:reset()" href="#" class="material-symbols-outlined">restart_alt</a>
+      </div>
+    </div>
+    <div class="grid-container">
+      {% for w in words %}
+        <div class="center-align grid-item">{{ w }}</div>
+      {% endfor %}
+    </div>
+
+    <script>
+      const col = document.getElementsByClassName('grid-item');
+
+      function onClick() {
+        const classes = this.className;
+        if (classes.indexOf('done') < 0) {
+          this.className = this.className + ' done';
+        } else {
+          this.className = classes.split(' ').filter( w => w !== 'done' ).join(' ');
+        }
+      }
+
+      function swap(i) {
+        const j = Math.floor(Math.random() * col.length);
+        const other = col[j].innerText;
+        col[j].innerText = col[i].innerText;
+        col[i].innerText = other;
+      }
+
+      function shuffle(addEvent=false) {
+        for (let i=0; i<col.length; i++) {
+          if (addEvent) col[i].addEventListener('click', onClick);
+          swap(i);
+        }
+        return false;
+      }
+
+      function alpha() {
+        let array = [];
+        for (let i=0; i<col.length; i++)
+          array.push(col[i].innerText);
+        array.sort();
+        for (let i=0; i<col.length; i++)
+          col[i].innerText = array[i];
+        return false;
+      }
+
+      function reset() {
+        for (let i=0; i<col.length; i++) {
+          const c = col[i].className.split(' ').filter( w => w !== 'done' ).join(' ');
+          col[i].className = c;
+        }
+      }
+
+      shuffle(true);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Would you tell me about your ^family?
+  - What would you like to know?
+  - Do you have ^brothers and ^sisters?
+  - I have one sister and two brothers. One brother is ^older. And the other is ^younger.
+  - And how about your ^parents? Are they ^living?
+  - Yes my mother ^lives here ^several ^blocks from my home. My ^father lives with my ^stepmother in another city.
+  - Do you see them ^often?
+  - Who? My parents or my ^siblings?
+  - All of them.
+  - I see my mother and sister every week for dinner. And I only see my brother for ^special ^holidays. My dad is ^usually ^busy with his ^wife&rsquo;s family and they don&rsquo;t like to ^travel.
+  - Well, that&rsquo;s great your mother and sister are so close. Family means a lot.
+---

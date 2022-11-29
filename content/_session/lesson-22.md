@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Is this the ^Overview ^hotel?
+  - Yes it is.
+  - I would like to make a ^reservation for three nights.
+  - Ok sir. I have your name. Is it ^John ^Roberts? And when will you be coming?
+  - Yes it&rsquo;s John Roberts. I&rsquo;ll be there on the second. I think its a ^Tuesday. Until ^Friday. I check out Friday morning.
+  - Great! Would you like a ^smoking or ^non-smoking room?
+  - Non-smoking please. I can&rsquo;t stand the ^smell of smoke. Could I also get a room with a ^view?
+  - That would be no ^problem, sir. Ok, so you have a reservation for Tuesday for three nights.
+  - ^Excellent. I&rsquo;ll see you on Tuesday.
+---

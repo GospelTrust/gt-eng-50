@@ -1,0 +1,15 @@
+---
+dialogue:
+  - Do you ^sell ^hamburgers here?
+  - Yes, we do. Would you ^like to see the menu?
+  - Sure. Let me see. What is your most ^popular menu ^item?
+  - This ^month is the ^Avocado Burger. Everyone ^loves it. I ^highly ^recommend it. It is ^just so good.
+  - Even the ^picture ^looks good. Maybe I&rsquo;ll get the Avocado Burger.
+  - The Avocado Burger ^comes with two ^sides.
+  - Oh, what are the sides?
+  - Sweet potato ^fries, french fries, ^coleslaw or a salad.
+  - I&rsquo;ll take the sweet potato fries and a salad.
+  - Ok great, anything to ^drink?
+  - I&rsquo;ll have an ^iced tea.
+  - Ok. I&rsquo;ll be right back.
+---

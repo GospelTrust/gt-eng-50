@@ -1,0 +1,11 @@
+---
+dialogue:
+  - I&rsquo;m thinking about seeing a movie later today. Is there anything good out.
+  - It ^depends on what ^kind ^of movie you like?
+  - I like ^comedies the most. Action movies are also good.
+  - Do you like ^horror movies? There&rsquo;s a really good one out soon.
+  - No way! The last time I ^watched a horror movie, I got so ^scared that I ^couldn&rsquo;t sleep the whole night.
+  - I ^guess you won&rsquo;t like that movie then.
+  - There&rsquo;s also a ^kungfu movie. I ^haven&rsquo;t seen it yet, but everyone says it&rsquo;s really good.
+  - Maybe ^I&rsquo;ll see that one. I like the ^martial arts.
+---

@@ -1,0 +1,13 @@
+---
+dialogue:
+  - What time is it?
+  - It is 5:30 (five thirty). Why?
+  - I think I&rsquo;m going to be late. I have a ^meeting at 5:45 (five fourty-five).
+  - Late! Why?  You ^still have 15 (fifteen) ^minutes. That&rsquo;s ^plenty of time.
+  - No it isn&rsquo;t. It&rsquo;s ^Tuesday. Today there is so much ^traffic.
+  - How long does it ^normally ^take to get ^there?
+  - Normally it takes 10 ^minutes. But if ^there&rsquo;s traffic it&rsquo;ll take more than 30 (thirty) minutes. A ^half an ^hour!
+  - Well, since you were already late, why not just stay here? Can you miss your ^meeting?
+  - Yeah, it&rsquo;s not that ^important. I&rsquo;ll just call them and tell them that I ^won&rsquo;t make it today.
+  - Sure, and you can ^leave ^earlier next time.
+---

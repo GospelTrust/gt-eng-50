@@ -1,0 +1,15 @@
+---
+dialogue:
+  - How&rsquo;s the ^weather today?
+  - I think it&rsquo;s ^going to be ^cloudy.
+  - Oh no! Is it going to ^rain? I wanted to go to the ^beach today.
+  - I don&rsquo;t think it will rain. But it won&rsquo;t be ^sunny.
+  - What does the weather ^forecast say?
+  - The ^weatherman said it would be cloudy today and sunny ^tomorrow.
+  - So if I go to the beach today, it will be ok?
+  - Sure, but make sure you wear ^sunscreen.
+  - Yeah I will. I got ^sunburned last time and it ^hurt for ^several days.
+  - Or just wait and go when the weather is a little better.
+  - I ^guess I can ^just go to the beach tomorrow.
+  - ^Maybe I&rsquo;ll go with you.
+---

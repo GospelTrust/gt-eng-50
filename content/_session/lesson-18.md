@@ -1,0 +1,12 @@
+---
+dialogue:
+  - Wow! You look great today. What&rsquo;s the ^occasion?
+  - Thanks. I found this ^shirt on ^sale and I had to have it. It was 75% (seventy-five ^percent) off!
+  - That&rsquo;s so ^cheap. What about the ^shorts?
+  - The shorts were a little more ^expensive. But they are so ^comfortable. And I like the ^color.
+  - And the ^shoes? Are the shoes new?
+  - These shoes? I&rsquo;ve had them for ^several months but I don&rsquo;t ^wear them very often so they still look new.
+  - I need to go buy some new ^clothes as well. Maybe I&rsquo;ll go to the same place. Is there still a sale?
+  - Yes, there is a sale this ^whole month.
+  - I&rsquo;ll go ^tomorrow.
+---

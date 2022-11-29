@@ -1,0 +1,14 @@
+---
+dialogue:
+  - Good evening sir! May I ^help you?
+  - Yes. I&rsquo;m ^checking in today. My name is John Thomas.
+  - You have a ^reservation with us?
+  - Uh, yes I ^believe I do. I called in last week.
+  - Let me see. John Thomas. It looks like we do. Is your ^reservation for a ^single room?
+  - That is ^correct.
+  - And you&rsquo;ll be staying with us for five ^nights?
+  - Yes, I&rsquo;ll be here for five nights. Maybe more.
+  - Just ^sign your name here Mr. Thomas. Here&rsquo;s your room ^key.
+  - Thank you very much.
+  - My ^pleasure.
+---

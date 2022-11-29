@@ -1,0 +1,13 @@
+---
+dialogue:
+  - What&rsquo;s your ^favorite ^sport?
+  - My favorite sport is ^basketball. I&rsquo;ve been ^playing basketball since I was a kid.
+  - Do you like ^watching basketball or just playing it?
+  - I like watching it. Playing it is also fun.
+  - Which team is your favorite?
+  - I don&rsquo;t have a favorite team. I just watch all the games.
+  - But you should have a favorite team, right?
+  - No. I like the ^Tigers a little because they won the ^Championship last year. But they are not my favorite.
+  - Well, we&rsquo;re going to the Tigers game next week. If you want to come let me know. We have an ^extra ticket.
+  - I&rsquo;d love to go. That would be fun!
+---

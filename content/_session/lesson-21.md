@@ -1,0 +1,13 @@
+---
+dialogue:
+  - Do you have ^hurricanes where you live?
+  - Yes. Every ^once in a ^while we have a hurricane. Most of the time they are small.
+  - Do they ever do ^serious ^damage?
+  - Yes. ^Sometimes we will have a very ^strong ^wind and it will knock down ^trees and cause damage to ^buildings.
+  - Has anyone ^gotten ^hurt?
+  - Most times we have a hurricane everyone ^evacuates and we are all safe. But if you live on a ^beach it could be very ^dangerous.
+  - Why?
+  - Because the ^waves get really big and it can ^flood.
+  - If I go there should I be ^worried?
+  - No, you&rsquo;ll be fine. Hurricanes are ^rare and we know about them before they come.
+---

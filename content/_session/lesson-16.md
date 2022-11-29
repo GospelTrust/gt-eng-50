@@ -1,0 +1,13 @@
+---
+dialogue:
+  - Do we have ^another test today?
+  - Yes. Why?
+  - Well, we had one ^yesterday and again last ^week. I ^failed both of them. This class is so hard.
+  - It would be a lot easier if you just did the ^homework.
+  - Yeah, well the homework takes way too long. I have other more ^important things to do.
+  - Like what?
+  - Like play ^video ^games. They are way more fun.
+  - Yeah! But video games don&rsquo;t help you get a job.
+  - Maybe, I can make money playing video games. If others have done it, I can do it too.
+  - Ok. Good luck with that.
+---
